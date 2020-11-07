@@ -1,0 +1,6 @@
+C:\Users\sebsk\source\repos\CLIGE 2\CLIGE 2\bin\Debug\CLIGE 2.dll
+C:\Users\sebsk\source\repos\CLIGE 2\CLIGE 2\bin\Debug\CLIGE 2.pdb
+C:\Users\sebsk\source\repos\CLIGE 2\CLIGE 2\obj\Debug\CLIGE 2.csprojAssemblyReference.cache
+C:\Users\sebsk\source\repos\CLIGE 2\CLIGE 2\obj\Debug\CLIGE 2.csproj.CoreCompileInputs.cache
+C:\Users\sebsk\source\repos\CLIGE 2\CLIGE 2\obj\Debug\CLIGE 2.dll
+C:\Users\sebsk\source\repos\CLIGE 2\CLIGE 2\obj\Debug\CLIGE 2.pdb
